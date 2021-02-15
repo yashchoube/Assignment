@@ -1,0 +1,16 @@
+2021-02-15 19:10:52,524  INFO [main] ChromeLauncher:22 - launching the browser
+ 2021-02-15 19:10:55,810  INFO [main] BaseHooks:35 - Running scenario: 
+ 2021-02-15 19:10:55,811  INFO [main] BaseHooks:36 - Compose email using Gmail.
+ 2021-02-15 19:10:59,550  INFO [main] SignInPage:26 - User Details on Address Screen :
+ 2021-02-15 19:11:00,093  INFO [main] SignInPage:34 - 1234
+ 2021-02-15 19:11:28,154  INFO [main] SignInPage:36 - =============================Welcome
+ 2021-02-15 19:14:23,642  INFO [main] ChromeLauncher:22 - launching the browser
+ 2021-02-15 19:14:26,657  INFO [main] BaseHooks:35 - Running scenario: 
+ 2021-02-15 19:14:26,658  INFO [main] BaseHooks:36 - Compose email using Gmail.
+ 2021-02-15 19:14:30,218  INFO [main] SignInPage:22 - User Details on Address Screen :
+ 2021-02-15 19:14:32,403  INFO [main] SignInPage:31 - Welcome Welcome
+ 2021-02-15 19:14:41,690  INFO [main] AccountPage:24 - ==================================Inbox (1) - automationtest975@gmail.com - Gmail
+ 2021-02-15 19:14:41,701  INFO [main] AccountPage:26 - User Gmail Account :
+ 2021-02-15 19:14:45,793  INFO [main] AccountPage:42 - ==============core.ui.Locator$XpathLocator@68ace111
+ 2021-02-15 19:14:45,842  INFO [main] AccountPage:43 - ===========================Message sent.
+ 
